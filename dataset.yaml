@@ -1,0 +1,6 @@
+names:
+- Odometer
+- LCD
+nc: 2
+train: C:/Users/32573/Desktop/Sheel-Work/Odometer/dataset/train/images
+val: C:/Users/32573/Desktop/Sheel-Work/Odometer/dataset/val/images
