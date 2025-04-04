@@ -82,16 +82,20 @@ names: ["Odometer", "LCD"]
 ```
 
 To process and format your dataset, run:  
-👉 **Model_Formation.ipynb** (to convert dataset to yolo format)  ``
+👉 [**Model_Formation.ipynb**] (Model_Formation.ipynb) (to convert dataset to yolo format) 
 
 ---
 
 ## **Training the Model**
 
-👉 **Model_Training.ipynb**   (Use this notebook to train your own model) 
+👉 [**Model_Training.ipynb**] (Model_Training.ipynb)   (Use this notebook to train your own model) 
 
 ---
+## **Evaluating the Model**
 
+👉 [**Model_Evaluation.ipynb**] (Model_Evaluation.ipynb)   (Use this notebook to evaluate and test the model) 
+
+---
 ## **Launching the Streamlit UI**
 
 To use the web-based UI for detection & OCR:
