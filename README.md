@@ -107,7 +107,8 @@ streamlit run odometer_reading.py
 ![GPU Utilization](Utilization.PNG)
 
 ## **Streamlit Demo**
-![Odometer Reading Demo](Streamlit_Demo.PNG)
+![Odometer Reading Demo](Streamlit_Demo.png)
 
 ## **YOLO Model For odometer Detection**
-[YOLO Model](runs/custom_train/best.pt)
+# Use best.pt model
+[YOLO Model](runs/custom_train)
