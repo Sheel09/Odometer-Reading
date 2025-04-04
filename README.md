@@ -110,5 +110,5 @@ streamlit run odometer_reading.py
 ![Odometer Reading Demo](Streamlit_Demo.png)
 
 ## **YOLO Model For odometer Detection**
-# Use best.pt model
-[YOLO Model](runs/custom_train)
+Use best.pt model
+[YOLO Model](runs/custom_train/weights/best.pt)
