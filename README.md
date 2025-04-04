@@ -82,7 +82,7 @@ names: ["Odometer", "LCD"]
 ```
 
 To process and format your dataset, run:  
-👉 [**Model_Formation.ipynb**](./Model_Formation.ipynb) (to convert dataset to yolo format) 
+👉 [**Model_Formation.ipynb**](Model_Formation.ipynb) (to convert dataset to yolo format) 
 
 ---
 
@@ -103,3 +103,11 @@ To use the web-based UI for detection & OCR:
 ```bash
 streamlit run odometer_reading.py
 ```
+## **System utilization**
+![GPU Utilization](Utilization.PNG)
+
+## **Streamlit Demo**
+![Odometer Reading Demo](Streamlit_Demo.PNG)
+
+## **YOLO Model For odometer Detection**
+[YOLO Model](runs/custom_train/best.pt)
