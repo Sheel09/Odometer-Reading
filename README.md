@@ -82,7 +82,7 @@ names: ["Odometer", "LCD"]
 ```
 
 To process and format your dataset, run:  
-👉 [**Model_Formation.ipynb**] (Model_Formation.ipynb) (to convert dataset to yolo format) 
+👉 [**Model_Formation.ipynb**] (./Model_Formation.ipynb) (to convert dataset to yolo format) 
 
 ---
 
