@@ -1,4 +1,4 @@
-tags : #Odo
+## Author : Sheel Shah
 # **YOLO-based Object Detection with CN-OCR Integration** 🚀
 
 ## **Overview**
